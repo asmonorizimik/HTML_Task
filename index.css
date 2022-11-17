@@ -1,0 +1,134 @@
+*{
+    margin:0px;
+    padding: 1px;
+
+}
+
+
+h1,p{
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+h6{
+    color: black;
+    text-align: center;
+    align-items: center;
+    font-size: 12px;
+}
+
+
+#mainContainer{
+    width: 700px;
+    height: 700px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+#container1{
+    width: 65%;
+    height: 100%;
+}
+
+#icons{
+    display: flex;
+    direction: row;
+    margin: 10px;
+    padding: 100px;
+    height: 1px;
+}
+
+
+#facebook{
+    width: 30px;
+    height: 30px;
+    margin-left: 2%;
+    /* border: px solid black; */
+    border-radius: 50%;
+}
+
+
+#Google{
+    width: 30px;
+    height: 30px;
+    margin-left: 2%;
+    /* border: 1px solid black; */
+    border-radius: 50%;
+}
+
+
+#LinkedIn{
+    width: 30px;
+    height: 30px;
+    margin-left: 2%;
+    /* border: 1px solid black; */
+    border-radius: 50%;
+}
+
+
+#Email{
+    margin-top: 10px;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+
+#Password{
+    margin-top: 10px;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+
+
+#sign-in{
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+
+
+h2{
+    padding-bottom: 40px;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+
+#container2{
+    padding: 10%;
+    width: 35%;
+    height: 80%;
+    background-color: rgb(11, 181, 147);
+}
+
+#sign-up{
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid grey;
+    background-color: aqua;
+    margin-right: 30px;
+    
+}
